@@ -1,8 +1,10 @@
 ---
-title: 'Internships'
+title: 'Internships & Projects'
 permalink: /experience/
 author_profile: true
 ---
+
+## Internships
 
 * **<span style="font-size:1.2em;"> Uber Technologies Inc.   </span>**  *Data Scientist Intern* \\
 Jun - Sep, 2020
@@ -20,8 +22,7 @@ Feb - May, 2016
   * The first-stage system covered over 4000 products, resulting 2% revenue boost in 3 month.
 
 
-Projects with [LPCH](https://www.stanfordchildrens.org/)
-======
+## Projects with [LPCH](https://www.stanfordchildrens.org/)
   * Surgical Scheduling and Simulation
     * Developed a surgical scheduling algorithm to level-load the post-operations units utilization.
 
@@ -32,8 +33,7 @@ Projects with [LPCH](https://www.stanfordchildrens.org/)
     * Automized the process of analyzing insurance denials with claim charges.
 
 
-Projects on Machine Learning/AI
-======
+## Projects on Machine Learning/AI
 * Community-wise Abstractive Text Summarization [[Report](https://tengz-sudo.github.io/files/CS_224U_Final_Paper.pdf)] [[Video](https://www.youtube.com/watch?v=11kCRQVzWJA&feature=youtu.be)]
   * Built a seq-to-seq model with community-specific attention to extract context-specific text summarization.
 
