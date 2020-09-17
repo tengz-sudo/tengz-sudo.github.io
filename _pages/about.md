@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. in the Department of Management Science and Engineering at Stanford. I am fortunate to be advised by [Peter Glynn](https://web.stanford.edu/~glynn/) and [Jose Blanchet](https://web.stanford.edu/~jblanche/).
+I am a fifth-year Ph.D. in the Department of Management Science and Engineering at Stanford (since 2016). I am fortunate to be advised by [Peter Glynn](https://web.stanford.edu/~glynn/) and [Jose Blanchet](https://web.stanford.edu/~jblanche/).
 
 I am broadly interested in theory and applications of data-driven decision under uncertainty. My research lies in the interplay between optimization, stochastic modeling and machine learning. Recently, I have developed my interest in healthcare management and hospital operations working with [David Scheinker](https://profiles.stanford.edu/david-scheinker) at [SURF](https://profiles.stanford.edu/david-scheinker).
 
@@ -17,8 +17,6 @@ In my free time, I enjoy casual badminton, mountain running/hiking and (randomly
 
 ## Contact
 email: A@B.C where A=tengz, B=stanford, C=edu
-
-
 
 
 
