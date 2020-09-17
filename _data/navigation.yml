@@ -1,8 +1,5 @@
 # main links links
 main:
-  # - title: "Publications"
-    # url: /publications/
-
   - title: "Research"
     url: /research/
 
@@ -11,18 +8,6 @@ main:
 
   - title: "COVID-19"
     url: /covid19/
-
-  # - title: "Talks"
-  #   url: /talks/
-
-  # - title: "Teaching"
-  #   url: /teaching/
-
-  # - title: "Portfolio"
-  #   url: /portfolio/
-
-  # - title: "Blog Posts"
-  #   url: /year-archive/
 
   - title: "CV"
     url: /cv/

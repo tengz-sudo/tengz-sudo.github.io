@@ -1,22 +1,18 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a ...
+I am a fifth-year Ph.D. in the Department of Management Science and Engineering at Stanford. I am fortunate to be advised by [Peter Glynn](https://web.stanford.edu/~glynn/) and [Jose Blanchet](https://web.stanford.edu/~jblanche/).
 
+I am broadly interested in theory and applications of optimal decision under uncertainty. My research lies in the interplay between optimization, stochastic modeling and machine learning. Recently, I have developed my interest in healthcare management and hospital operations working with [David Scheinker](https://profiles.stanford.edu/david-scheinker) at [SURF](https://profiles.stanford.edu/david-scheinker).
 
-Education
-======
+Prior to Stanford, I received my Bachelor's degree in Applied Math at [Fudan University](https://www.fudan.edu.cn/en/). During my last two years of undergrad, I also studied in [Research Institute for Interdisciplinary Sciences (RIIS) at SHUFE](http://riis.shufe.edu.cn/), where I met my undergrad advisors [Dongdong Ge](http://riis.shufe.edu.cn/english/hospitaldetail.aspx?id=3&category_id=22), [Simai He](http://riis.shufe.edu.cn/english/hospitaldetail.aspx?id=6&category_id=22), [Bo Jiang](http://riis.shufe.edu.cn/english/hospitaldetail.aspx?id=14&category_id=22) and [Chris Ryan](https://www.sauder.ubc.ca/people/christopher-thomas-ryan).
 
-dd
-
-
+In my free time, I enjoy casual badminton, mountain running/hiking and (randomly) playing around with my guitar.
 
 
 Contact
@@ -25,10 +21,53 @@ email: A@B.C where A=tengz, B=stanford, C=edu
 
 
 
-<!-- <span style="font-size:1em;">LOVE!</span> -->
+
+Internships
+======
+
+* **<span style="font-size:1.2em;"> Uber Technologies Inc.   </span>**  *Data Scientist Intern* \\
+Jun - Sep, 2020
+  * Developed a model-based simulation pipeline for uplift estimation.
+  * Designed and prototyped a dynamic riders incentive algorithm for all Uber users, with 10-20% estimated improvement in gross bookings.
+
+* **<span style="font-size:1.2em;"> Veritas Technologies LLC.   </span>** *Data Scientist Intern* \\
+Jun - Sep, 2018
+  * Leaded a machine learning project on customer renewal prediction, won 1st place in the Veritas CPO intern pot competition.
+  * Achieved 70% overall accuracy and 90% accuracy amongst the top 80% customers in the test fiscal quarter.
+
+* **<span style="font-size:1.2em;"> Cardinal Operations   </span>**  *Data Scientist Intern* \\
+Feb - May, 2016
+  * Developed a system of strategic pricing on new and long-tail goods for a leading e-commerce company in China.
+  * The first-stage system covered over 4000 products, resulting 2% revenue boost in 3 month.
+
+
+Projects with [LPCH](https://www.stanfordchildrens.org/)
+======
+
+
+Projects on Machine Learning/AI
+======
+* Community-wise Abstractive Text Summarization [[Report](d)] [[Video](d)]
+  * Built a seq-to-seq model with community-specific attention to extract context-specific text summarization.
+
+* Distributionally Robust Adversarial Training [[Report](d)] [[Poster](d)]
+  * Generalized Wasserstein based distributional robust optimization framework to improve GAN against adversarial examples at scale.
+
+* Question Answering with Attentions Ensemble [[Report](d)] [[Poster](d)]
+  * Implement three state of the art question answering models with an ensemble mechanism.
+
+* Learning to Walk: Reinforcement Learning on FrozenLake [[Report](d)] [[Poster](d)]
+  * Experiment exploration algorithms on games using OpenAI gym toolkit.
+
+
+
+
+<span style="font-size:1em;">LOVE!</span>
 
 
 <!--
+title: "About me"
+excerpt: "About me"
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
