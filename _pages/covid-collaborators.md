@@ -1,9 +1,10 @@
 ---
+title: "People I worked with in the COVID projects"
 permalink: /covid-collaborators/
 author_profile: true
 ---
 
-## People I worked with in the COVID projects
+<!-- ## People I worked with in the COVID projects -->
 
 Jose Blanchet, _professor, MS&E_\\
 Johannes Opsahl Ferstad, _student, MS&E_\\
