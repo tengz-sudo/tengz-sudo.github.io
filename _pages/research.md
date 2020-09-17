@@ -1,10 +1,11 @@
 ---
+title: "Publications & Working Papers"
 permalink: /research/
 author_profile: true
 ---
 
-Publications & Working Papers
-=====
+<!-- Publications & Working Papers
+===== -->
 
 Operations Research
 ---
