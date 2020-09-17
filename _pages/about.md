@@ -14,7 +14,18 @@ I am a ...
 Education
 ======
 
+dd
 
+
+
+
+Contact
+======
+email: A@B.C where A=tengz, B=stanford, C=edu
+
+
+
+<!-- <span style="font-size:1em;">LOVE!</span> -->
 
 
 <!--

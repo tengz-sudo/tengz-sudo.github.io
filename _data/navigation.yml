@@ -1,10 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+    # url: /publications/
 
   - title: "Research"
-    url: /_research/
+    url: /research/
+
+  - title: "Experience"
+    url: /experience/
+
+  - title: "COVID-19"
+    url: /covid19/
 
   # - title: "Talks"
   #   url: /talks/
@@ -12,14 +18,11 @@ main:
   # - title: "Teaching"
   #   url: /teaching/
 
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
 
   # - title: "Blog Posts"
   #   url: /year-archive/
 
   - title: "CV"
     url: /cv/
-  #
-  # - title: "Guide"
-  #   url: /markdown/
