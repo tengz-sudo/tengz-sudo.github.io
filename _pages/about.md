@@ -15,8 +15,7 @@ Prior to Stanford, I received my Bachelor's degree in Applied Math at [Fudan Uni
 In my free time, I enjoy casual badminton, mountain running/hiking and (randomly) playing around with my guitar.
 
 
-Contact
-======
+## Contact
 email: A@B.C where A=tengz, B=stanford, C=edu
 
 
@@ -62,7 +61,7 @@ Projects on Machine Learning/AI
 
 
 
-<span style="font-size:1em;">LOVE!</span>
+<!-- <span style="font-size:1em;">LOVE!</span> -->
 
 
 <!--
