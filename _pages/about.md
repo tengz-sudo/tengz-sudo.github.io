@@ -8,7 +8,7 @@ redirect_from:
 
 I am a fifth-year Ph.D. in the Department of Management Science and Engineering at Stanford. I am fortunate to be advised by [Peter Glynn](https://web.stanford.edu/~glynn/) and [Jose Blanchet](https://web.stanford.edu/~jblanche/).
 
-I am broadly interested in theory and applications of optimal decision under uncertainty. My research lies in the interplay between optimization, stochastic modeling and machine learning. Recently, I have developed my interest in healthcare management and hospital operations working with [David Scheinker](https://profiles.stanford.edu/david-scheinker) at [SURF](https://profiles.stanford.edu/david-scheinker).
+I am broadly interested in theory and applications of data-driven decision under uncertainty. My research lies in the interplay between optimization, stochastic modeling and machine learning. Recently, I have developed my interest in healthcare management and hospital operations working with [David Scheinker](https://profiles.stanford.edu/david-scheinker) at [SURF](https://profiles.stanford.edu/david-scheinker).
 
 Prior to Stanford, I received my Bachelor's degree in Applied Math at [Fudan University](https://www.fudan.edu.cn/en/). During my last two years of undergrad, I also studied in [Research Institute for Interdisciplinary Sciences (RIIS) at SHUFE](http://riis.shufe.edu.cn/), where I met my undergrad advisors [Dongdong Ge](http://riis.shufe.edu.cn/english/hospitaldetail.aspx?id=3&category_id=22), [Simai He](http://riis.shufe.edu.cn/english/hospitaldetail.aspx?id=6&category_id=22), [Bo Jiang](http://riis.shufe.edu.cn/english/hospitaldetail.aspx?id=14&category_id=22) and [Chris Ryan](https://www.sauder.ubc.ca/people/christopher-thomas-ryan).
 
@@ -18,45 +18,6 @@ In my free time, I enjoy casual badminton, mountain running/hiking and (randomly
 ## Contact
 email: A@B.C where A=tengz, B=stanford, C=edu
 
-
-
-
-Internships
-======
-
-* **<span style="font-size:1.2em;"> Uber Technologies Inc.   </span>**  *Data Scientist Intern* \\
-Jun - Sep, 2020
-  * Developed a model-based simulation pipeline for uplift estimation.
-  * Designed and prototyped a dynamic riders incentive algorithm for all Uber users, with 10-20% estimated improvement in gross bookings.
-
-* **<span style="font-size:1.2em;"> Veritas Technologies LLC.   </span>** *Data Scientist Intern* \\
-Jun - Sep, 2018
-  * Leaded a machine learning project on customer renewal prediction, won 1st place in the Veritas CPO intern pot competition.
-  * Achieved 70% overall accuracy and 90% accuracy amongst the top 80% customers in the test fiscal quarter.
-
-* **<span style="font-size:1.2em;"> Cardinal Operations   </span>**  *Data Scientist Intern* \\
-Feb - May, 2016
-  * Developed a system of strategic pricing on new and long-tail goods for a leading e-commerce company in China.
-  * The first-stage system covered over 4000 products, resulting 2% revenue boost in 3 month.
-
-
-Projects with [LPCH](https://www.stanfordchildrens.org/)
-======
-
-
-Projects on Machine Learning/AI
-======
-* Community-wise Abstractive Text Summarization [[Report](d)] [[Video](d)]
-  * Built a seq-to-seq model with community-specific attention to extract context-specific text summarization.
-
-* Distributionally Robust Adversarial Training [[Report](d)] [[Poster](d)]
-  * Generalized Wasserstein based distributional robust optimization framework to improve GAN against adversarial examples at scale.
-
-* Question Answering with Attentions Ensemble [[Report](d)] [[Poster](d)]
-  * Implement three state of the art question answering models with an ensemble mechanism.
-
-* Learning to Walk: Reinforcement Learning on FrozenLake [[Report](d)] [[Poster](d)]
-  * Experiment exploration algorithms on games using OpenAI gym toolkit.
 
 
 
