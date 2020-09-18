@@ -4,7 +4,7 @@ author_profile: true
 ---
 
 During the pandemic, I was heavily involved in the [response for COVID-19 from Stanford Health](https://med.stanford.edu/covid19.html). Our team, a mix of Stanford Engineering + Stanford Hospital faculties and students work closely in a fast pace in dealing with
-* Medical resource planning for Stanford Hospital and LPCH, and
+* Medical resource planning for Stanford Hospital and LPCH
 * Regional pandemic projection
 
 where I co-led the hospital projects.
