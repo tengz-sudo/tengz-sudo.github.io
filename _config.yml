@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Teng's Homepage"
 title_separator          : "-"
 name                     : &name "Teng Zhang"
-description              : &description "personal description"
+description              : &description ""
 url                      : https://tengz-sudo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tengz-sudo.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Teng Zhang"
-  avatar           : "profile.png"
+  avatar           : "profile_1.JPG"
   bio              : "PhD student at Stanford"
   location         : "Stanford, California"
   employer         :
