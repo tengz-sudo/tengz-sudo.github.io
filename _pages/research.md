@@ -27,7 +27,7 @@ Operations Research
 Machine Learning
 ---
 * CoVeR: Learning Covariate-Specific Vector Representations with Tensor Decompositions\\
-  with Kevin Tian and Jame Zou\\
+  with Kevin Tian and James Zou\\
   _ICML_, 2018\\
   [[paper](https://arxiv.org/pdf/1802.07839.pdf)]
 
