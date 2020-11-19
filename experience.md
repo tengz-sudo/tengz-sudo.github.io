@@ -6,6 +6,10 @@ author_profile: true
 
 ## Internships
 
+* **<span style="font-size:1.2em;"> ByteDance Ltd.   </span>**  *Applied Machine Learning Intern* \\
+Sep - Dec, 2020
+  * Working in the US Applied Machine Learning team (AML-US) on large-scale recommendation systems.
+
 * **<span style="font-size:1.2em;"> Uber Technologies Inc.   </span>**  *Data Scientist Intern* \\
 Jun - Sep, 2020
   * Developed a model-based simulation pipeline for uplift estimation.

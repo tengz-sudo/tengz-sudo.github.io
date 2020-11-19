@@ -16,8 +16,13 @@ Operations Research
 
 * Discrete Problem of Moments with Nonconvex Shape Constraints\\
   with Xi Chen, Simai He, Bo Jiang and Chris Ryan\\
-  _Operations Research (to appear)_, 2020\\
-  [[paper](https://arxiv.org/pdf/1708.02079.pdf)]
+  _Operations Research_, 2020\\
+  [[paper](https://pubsonline.informs.org/doi/abs/10.1287/opre.2020.1990)]
+
+* The Development and Deployment of a Model for Hospital-level COVID-19 Associated Patient Demand Intervals from Consistent Estimators (DICE)\\
+  with Peter Glynn, David Scheinker and Linying Yang\\
+  _arXiv preprint_, 2020+\\
+  [[paper](https://arxiv.org/abs/2011.09377)]
 
 * Adaptive Optimal Stratified Sampling\\
   with Jose Blanchet, Peter Glynn and Zeyu Zheng\\
@@ -49,6 +54,6 @@ Healthcare Management
   _medRxiv preprint_, 2020+\\
   [[paper](https://www.medrxiv.org/content/10.1101/2020.03.24.20042762v1.full.pdf)]
 
-* Multi-objectives Surgical Scheduling\\
+* Multi-objectives Surgical Scheduling and Evaluation Metrics\\
   with Jose Blanchet, David Scheinker and Peter Glynn\\
   _In Preparation_, 2020+.
